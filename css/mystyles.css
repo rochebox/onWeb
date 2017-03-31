@@ -1,0 +1,51 @@
+
+/* my styles */
+
+body{
+	margin:0;
+	padding: 0;
+}
+
+#bigHeading{
+
+	font-family: 'Gloria Hallelujah', cursive;
+	
+	font-size: 50pt;
+
+	background-color: dodgerblue;
+
+	margin: 0;
+	padding: 0;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: white;
+	text-align: center;
+
+}
+
+#picDiv{
+	margin:0;
+	padding: 0;
+	padding-top:15px;
+
+}
+
+.centerMe{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.wayToGo{
+	font-family: 'Gloria Hallelujah', cursive;
+	
+	font-size: 50pt;
+
+
+	margin: 0;
+	padding: 0;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	color: dodgerblue;
+	text-align: center;
+}
